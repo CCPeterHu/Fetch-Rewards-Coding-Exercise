@@ -17,12 +17,16 @@
  6. in terminal run: nmp start
  
  #Webpage
- 1st text: user name (must letters) br.
+ 1st text: user name (must letters)
+ 
  2nd text: pints (muser number)
+ 
  press Add buttion add data to server.
+ 
  #please note that server does not have a permanant storage, if you reboot server, musth input data again.
  
  3nd text: the points you want to spend
+ 
  press Point buttion to spend points
  
  #result
