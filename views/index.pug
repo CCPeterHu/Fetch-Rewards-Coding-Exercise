@@ -5,15 +5,15 @@ block content
   body 
     form(id="rewards" method = "POST" target="display" action="http://localhost:3000/add")
       label(for="name")
-        input(type="text", name="userName") 
+        input(type="text", name="userName" required) 
         br
-        input(type="number", name="points") 
+        input(type="number", name="points" required) 
         br
       input(type="submit" value="add")    
     br
     form(id="getData" method = "POST" target="display" action="http://localhost:3000/data")
       label(for="pointsSpend")
-      input(type="number", name="spend")
+      input(type="number", name="spend" required)
       br
       input(type="submit", value="point")
     br
