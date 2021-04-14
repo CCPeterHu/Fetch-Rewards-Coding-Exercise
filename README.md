@@ -1,6 +1,8 @@
 # Fetch-Rewards-Coding-Exercise
 # How to Use
  
+ URL: http://localhost:3000/
+ 
  #Windows
  1. install Node.js from https://nodejs.org/en/download/
  2. install Visual Studio Code from https://code.visualstudio.com/Download
