@@ -1,5 +1,6 @@
 # Fetch-Rewards-Coding-Exercise
 # How to Use
+# Please feel free to add testing cases to mess up the program, in case, I found a pitful bug after adding random cases to testDB.
  
  URL: http://localhost:3000/
  
@@ -10,6 +11,8 @@
  ![get-balance](https://github.com/CCPeterHu/Fetch-Rewards-Coding-Exercise/blob/main/output%20picture/after%20clicking%20get%20balance.png)
  
  
+ 
+ ### how to install environment 
  #Windows
  1. install Node.js from https://nodejs.org/en/download/
  2. install Visual Studio Code from https://code.visualstudio.com/Download
