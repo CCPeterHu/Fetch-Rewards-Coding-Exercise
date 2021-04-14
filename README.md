@@ -3,6 +3,13 @@
  
  URL: http://localhost:3000/
  
+ #after clicking point
+ ![after-clicking-point](https://github.com/CCPeterHu/Fetch-Rewards-Coding-Exercise/blob/main/output%20picture/response%20from%20calling%20points.png)
+ 
+ #after clicking get balance
+ ![get-balance](https://github.com/CCPeterHu/Fetch-Rewards-Coding-Exercise/blob/main/output%20picture/after%20clicking%20get%20balance.png)
+ 
+ 
  #Windows
  1. install Node.js from https://nodejs.org/en/download/
  2. install Visual Studio Code from https://code.visualstudio.com/Download
