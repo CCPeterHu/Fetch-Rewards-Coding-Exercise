@@ -9,7 +9,7 @@ please note that since the data is volatile, you may have to reset server to get
  
  URL: http://localhost:3000/
  
- #after clicking point
+ #after clicking spend points
  ![after-clicking-point](https://github.com/CCPeterHu/Fetch-Rewards-Coding-Exercise/blob/main/output%20picture/response%20from%20calling%20points.png)
  
  #after clicking get balance
