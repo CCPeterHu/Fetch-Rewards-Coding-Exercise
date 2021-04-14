@@ -17,4 +17,8 @@ block content
       br
       input(type="submit", value="point")
     br
-    iFrame(name="display" class="hid")  
+
+    form(id="balance" method="GET" target="display" action="http://localhost:3000/balance")
+      input(type="submit", value="get balance")
+
+    iFrame(name="display" class="hid" flex="1" width="700px" height="400px")  
