@@ -19,7 +19,7 @@ I did not change the original data in server. if updating to database is require
  
  
  ### how to install environment 
- #Windows
+ ## Windows
  1. install Node.js from https://nodejs.org/en/download/
  2. install Visual Studio Code from https://code.visualstudio.com/Download
  3. install github from: https://gitforwindows.org
@@ -27,7 +27,7 @@ I did not change the original data in server. if updating to database is require
  5. in VS code, select terminal. Within terminal window, type: npm install express view=pug -g -git --save
  6. in terminal type: npm start
  
- # MAC or Linux
+ ## MAC or Linux
  1. install brew in terminal: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
  3. install Visual Studio Code from: https://code.visualstudio.com/docs?dv=osx
  4. open VS code clone code from git: https://github.com/CCPeterHu/Fetch-Rewards-Coding-Exercise.git
