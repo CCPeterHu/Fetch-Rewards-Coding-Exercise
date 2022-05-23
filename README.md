@@ -10,10 +10,10 @@ I did not change the original data in server. if updating to database is require
  
  URL: http://localhost:3000/
  
- #after clicking spend points
+ ## after clicking spend points
  ![after-clicking-point](https://github.com/CCPeterHu/Fetch-Rewards-Coding-Exercise/blob/main/output%20picture/response%20from%20calling%20points.png)
  
- #after clicking get balance
+ ## after clicking get balance
  ![get-balance](https://github.com/CCPeterHu/Fetch-Rewards-Coding-Exercise/blob/main/output%20picture/after%20clicking%20get%20balance.png)
  
  
@@ -27,7 +27,7 @@ I did not change the original data in server. if updating to database is require
  5. in VS code, select terminal. Within terminal window, type: npm install express view=pug -g -git --save
  6. in terminal type: npm start
  
- #MAC or Linux
+ # MAC or Linux
  1. install brew in terminal: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
  3. install Visual Studio Code from: https://code.visualstudio.com/docs?dv=osx
  4. open VS code clone code from git: https://github.com/CCPeterHu/Fetch-Rewards-Coding-Exercise.git
